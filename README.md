@@ -5,7 +5,7 @@ button to control the sound. People simply press the control button to hear and 
 light is running now. They can press the button again to pause the sound.All objects in the project
 are made by three-dimension. 
 
-Here is the output video that records how the traffic lights are running(Please click the start button and volume button) 
+# The output video that records how the traffic lights are running(Please click the start button and volume button) 
+https://user-images.githubusercontent.com/77606911/115185853-46eec300-a0a6-11eb-9207-8b6ebc53e0d7.mp4
 
-https://user-images.githubusercontent.com/77606911/115184629-d47ce380-a0a3-11eb-8474-313029aec7bc.mp4
 
